@@ -1,0 +1,2 @@
+# SusmithaMandalaGit
+creating new repository
